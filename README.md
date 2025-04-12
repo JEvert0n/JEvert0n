@@ -1,13 +1,3 @@
-<h1 align="center">Olá, eu sou o JEvert0n 👨💻</h1>
-
-<p align="center">
-  💡 Estudante do curso Técnico em Informática na <strong>EEEP Dep. José Maria Melo</strong><br>
-  🖥️ Apaixonado por tecnologia, desenvolvimento de software e inovação<br>
-  🚀 Em constante aprendizado e evolução na área de TI
-Expandir
-README.md
-3 KB
-﻿
 <h1 align="center">Olá, eu sou o JEvert0n 👨‍💻</h1>
 
 <p align="center">
