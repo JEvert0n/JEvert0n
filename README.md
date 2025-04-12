@@ -49,7 +49,7 @@
 ## 🤝 Conecte-se comigo
 
 - 💬 Me chame para colaborar em projetos ou desafios escolares!
-- 📧 Entre em contato: **[adicionar_email_aqui]**
+- 📧 Entre em contato: **[]**
 - 🔗 GitHub da organização: [@ti-eeepdjmm](https://github.com/ti-eeepdjmm)
 
 ---
